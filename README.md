@@ -7,7 +7,7 @@ This is the official code and data repository for the paper:
 
 ## 1. Download Dataset/Model Checkpoints
 
-The 🪐MARS benchmark and our best model checkpoints on three tasks in 🪐MARS can be downloaded at [this link](https://hkustconnect-my.sharepoint.com/:f:/g/personal/wwangbw_connect_ust_hk/Em5EKOyH7phOhz7T5hKHuTMBaCie2zy60jLDrcoxFey2Yw).
+The 🪐MARS benchmark can be downloaded [here](https://hkustconnect-my.sharepoint.com/:f:/g/personal/wwangbw_connect_ust_hk/EgOehrAMckFPh0wDV7Sdk1EBlHXd0QlfffDYlXDJ_KWqkw?e=4cYUVx).
 
 ## 2. Benchmark Curation
 
